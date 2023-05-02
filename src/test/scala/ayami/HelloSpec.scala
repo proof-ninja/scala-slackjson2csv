@@ -1,4 +1,4 @@
-package example
+package ayami
 
 import org.scalatest._
 
